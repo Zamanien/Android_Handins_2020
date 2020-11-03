@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="contact_us">Kontakt Os</string>
+    <string name="quoteAndre">"'Siden 2000 har vi stået i spidsen af samfundets digitale omstilling'"</string>
+    <string name="byAndre">- André Rogaczewski, CEO og co-founder</string>
+    <string name="about_us">Om Os</string>
+    <string name="viErNC">Netcompany blev grundlagt år 2000 og har hovedkvarter i København. I dag er vi et internationalt selskab med mere end 2500 medarbejdere i 6 lande. Vi er en rendyrket it-serviceleverandør af innovative, samfunds- og forretningskritiske løsninger, der fremskynder kundernes digitale omstilling gennem udvikling, vedligehold og drift af digitale platforme, kernesystemer og brugerflader.</string>
+    <string name="vi_er_netcompany">Vi er Netcompany</string>
+    <string name="ncInfo">Reception +45 7013 1440 info@netcompany.com</string>
+    <string name="ncLocation">Grønningen 17 DK - 1270 København K Danmark</string>
+    <string name="ncGeneral">Generelle Spørgsmål:</string>
+    <string name="ncHours">Hverdage 8.30 am - 16.00 pm</string>
+</resources>
