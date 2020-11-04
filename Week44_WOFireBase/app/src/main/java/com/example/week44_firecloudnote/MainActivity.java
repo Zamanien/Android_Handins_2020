@@ -11,8 +11,6 @@ import android.widget.Button;
 import android.widget.ListView;
 import android.widget.TextView;
 
-import com.google.firebase.firestore.FirebaseFirestore;
-
 import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
@@ -22,7 +20,6 @@ public class MainActivity extends AppCompatActivity {
     //Defining an arraylist in the class scope - Not inside a method so it's usage is not limited to that method
     //set to static in order to be accesible from DetailActivity
     static ArrayList<String> myList = new ArrayList<>();
-    FirebaseFirestore db = FirebaseFirestore.getInstance();
 
 
     @Override

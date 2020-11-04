@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "361309202557",
+    "firebase_url": "https://fir-project-9dc30.firebaseio.com",
+    "project_id": "fir-project-9dc30",
+    "storage_bucket": "fir-project-9dc30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361309202557:android:a10ecd640d064831cd6914",
+        "android_client_info": {
+          "package_name": "com.example.maplocationandfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361309202557-ar2guataajl2v7oscptfiqdjduitktib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxnGBdwn9wQTR-ngALjg-fAOUPpCU3mzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361309202557-ar2guataajl2v7oscptfiqdjduitktib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361309202557:android:3fe064ba0b11b8e2cd6914",
+        "android_client_info": {
+          "package_name": "com.example.week44_firecloudnote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361309202557-ar2guataajl2v7oscptfiqdjduitktib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxnGBdwn9wQTR-ngALjg-fAOUPpCU3mzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361309202557-ar2guataajl2v7oscptfiqdjduitktib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361309202557:android:e079bca2ce6ec725cd6914",
+        "android_client_info": {
+          "package_name": "com.tariq.week9_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361309202557-ar2guataajl2v7oscptfiqdjduitktib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxnGBdwn9wQTR-ngALjg-fAOUPpCU3mzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361309202557-ar2guataajl2v7oscptfiqdjduitktib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
